@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
 @import url('https://fonts.googleapis.com/css?family=Handlee');
 
-*, *:after, *:before{
+*,
+*:after,
+*:before{
   box-sizing:border-box;
   margin:0;
   padding:0;
